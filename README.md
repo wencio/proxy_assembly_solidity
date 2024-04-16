@@ -11,7 +11,7 @@ This Solidity smart contract implements a proxy pattern, allowing it to delegate
 ## Contract Details
 
 - **Solidity Version**: ^0.8.0
-- **Author**: [Tu nombre/alias]
+
 
 ## Contract Structure
 
